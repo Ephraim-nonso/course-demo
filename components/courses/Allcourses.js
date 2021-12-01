@@ -1,0 +1,51 @@
+export const AllCourses = [
+  {
+    name: "Data Structures and Algorithms",
+    students: 211,
+    likes: 512,
+    price: 8.99,
+    image: require("../../assets/images/1.jpg"),
+  },
+  {
+    name: "Introduction to Programming",
+    students: 2687,
+    likes: 1022,
+    price: 17.89,
+    image: require("../../assets/images/2.jpg"),
+  },
+  {
+    name: "Python for Machine Learning",
+    students: 120,
+    likes: 456,
+    price: 17,
+    image: require("../../assets/images/3.jpg"),
+  },
+  {
+    name: "React Native for Cross Platform Applications",
+    students: 890,
+    likes: 895,
+    price: 25.6,
+    image: require("../../assets/images/4.jpg"),
+  },
+  {
+    name: "Product Management in 15 Hours",
+    students: 252,
+    likes: 188,
+    price: 27.08,
+    image: require("../../assets/images/5.jpg"),
+  },
+  {
+    name: "Learn Node in 10 Minutes",
+    students: 42,
+    likes: 12,
+    price: 8.39,
+    image: require("../../assets/images/6.jpg"),
+  },
+  {
+    name: "Javascripts: Beginner Friendly",
+    students: 602,
+    likes: 129,
+    price: 5.39,
+    image: require("../../assets/images/7.jpg"),
+  },
+];
